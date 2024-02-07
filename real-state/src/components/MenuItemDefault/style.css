@@ -1,0 +1,19 @@
+.menu-item-default {
+  align-items: center;
+  display: inline-flex;
+  gap: 10px;
+  position: relative;
+}
+
+.menu-item-default .label {
+  color: #ffffff;
+  font-family: "Montserrat", Helvetica;
+  font-size: 14px;
+  font-weight: 600;
+  letter-spacing: 0;
+  line-height: 20px;
+  margin-top: -1px;
+  position: relative;
+  white-space: nowrap;
+  width: fit-content;
+}

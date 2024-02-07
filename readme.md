@@ -1,0 +1,1 @@
+Figma design link - https://www.figma.com/file/IoGHEyZM0lf0z6MtfvG9Xw/Real-Estate-Website-(Community)?type=design&node-id=35-660&mode=design&t=K4iZRREI5KJQTNIw-0

@@ -1,0 +1,35 @@
+/* header.css */
+.header-container {
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  background-color: #f0f4f8;
+}
+
+.header-title {
+  font-size: 2rem;
+  font-weight: bold;
+  margin-bottom: 1rem;
+}
+
+.button-container {
+  display: flex;
+  justify-content: center;
+  margin-bottom: 2rem;
+}
+
+.header-button {
+  padding: 0.5rem 1rem;
+  background-color: #4a90e2;
+  color: white;
+  border: none;
+  border-radius: 0.25rem;
+  cursor: pointer;
+  transition: background-color 0.3s;
+}
+
+.header-button.active {
+  background-color: #0069d9;
+}

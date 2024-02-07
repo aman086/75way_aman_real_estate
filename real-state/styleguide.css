@@ -1,0 +1,6 @@
+:root {
+  --black: rgba(47, 35, 79, 1);
+  --dark-shadow: 0px 10px 20px 0px rgba(41, 41, 42, 0.07);
+  --primary: rgba(127, 87, 241, 1);
+  --shadow-xs: 0px 1px 2px 0px rgba(16, 24, 40, 0.05);
+}

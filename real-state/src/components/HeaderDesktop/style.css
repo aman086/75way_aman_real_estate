@@ -1,0 +1,58 @@
+.header-desktop {
+  -webkit-backdrop-filter: blur(22px) brightness(100%);
+  backdrop-filter: blur(22px) brightness(100%);
+  background-color: #00000026;
+  height: 72px;
+  position: relative;
+  width: 1440px;
+}
+
+.header-desktop .nav-items {
+  align-items: center;
+  display: inline-flex;
+  gap: 32px;
+  left: 956px;
+  position: absolute;
+  top: 26px;
+}
+
+.header-desktop .menu-item-default-instance {
+  flex: 0 0 auto !important;
+}
+
+.header-desktop .logo-instance {
+  height: 40px !important;
+  left: 112px !important;
+  position: absolute !important;
+  top: 16px !important;
+  width: 176px !important;
+}
+
+
+/* style.css */
+.header-desktop {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  background-color: transparent; /* Make the background transparent */
+}
+
+.nav-items {
+  display: flex;
+}
+
+.menu-button {
+  background-color: transparent; /* Make the button background transparent */
+  border: none; /* Remove the button border */
+  color: #333; /* Set the button text color */
+  margin-right: 20px; /* Add spacing between buttons */
+  cursor: pointer;
+}
+
+.menu-button:hover {
+  color: #555; /* Change button text color on hover */
+}
+
+.logo-instance {
+  width: 100px; /* Adjust logo width as needed */
+}
